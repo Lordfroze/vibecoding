@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://yogatama.biz.id';
 
 /**
  * Helper to handle fetch responses and handle HTTP errors.
